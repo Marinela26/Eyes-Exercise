@@ -4,7 +4,7 @@
 
 ## Table of Contents
 * [Screenshots](#screenshots)
-* [Introduction](#introduction)
+* [Description](#description)
 * [Technologies Used](#technologies-used)
 * [How to run](#how-to-run)
 * [Future Improvement](#future-improvement)
@@ -15,28 +15,32 @@
 
 <img src="eyes.png" alt="#" width="#" height="#">
 
-## Introduction
+## Description
 
+In this exercise, when the mouse movement event is used the position of the “eyes” elements is changing. Because of this JavaScript event a funny game is built.
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- HTML5
+- CSS3
+- JavaScript
 
 
 ## How to Run
 
+* Clone this repository
+
+$ git clone https://github.com/Marinela26/Eyes-Exercise.git
+
+* Go into the repository
+
+$ cd Eyes-Exercise
 
 ## Future Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- Make the "eyes" elements blink upon a mouseleave event.
+- Make the "eyes" elements change color upon a mouse click event.
 
-To do:
-- Feature to be added 1
-- Feature to be added 2
+
 
 
  ## License
