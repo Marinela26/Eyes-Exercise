@@ -4,10 +4,10 @@
 
 ## Table of Contents
 * [Screenshots](#screenshots)
-* [General Info](#general-information)
+* [Introduction](#introduction)
 * [Technologies Used](#technologies-used)
-* [Setup](#setup)
-* [Room for Improvement](#room-for-improvement)
+* [How to run](#how-to-run)
+* [Future Improvement](#future-improvement)
 * [License](#license)
 
 
@@ -15,7 +15,7 @@
 
 <img src="eyes.png" alt="#" width="#" height="#">
 
-## General Information
+## Introduction
 
 
 ## Technologies Used
@@ -24,10 +24,10 @@
 - Tech 3 - version 3.0
 
 
-## Setup
+## How to Run
 
 
-## Room for Improvement
+## Future Improvement
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
