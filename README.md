@@ -1,6 +1,6 @@
 # Eyes-Exercise
 
-<a href="https://marinela26.github.io/Eyes-Exercise/">Demo here</a>
+<a href="https://marinela-togoe.github.io/Eyes-Exercise/">Demo here</a>
 
 ## Table of Contents
 * [Screenshots](#screenshots)
